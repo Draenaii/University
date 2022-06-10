@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee7f8b68-9c25-4aa6-acb9-16e45b371683": {
+      "ProjectGuid": "ee7f8b68-9c25-4aa6-acb9-16e45b371683",
+      "DisplayName": "Reversi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
