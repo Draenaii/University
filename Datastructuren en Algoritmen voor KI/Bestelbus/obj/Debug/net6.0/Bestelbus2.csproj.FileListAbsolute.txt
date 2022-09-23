@@ -1,0 +1,15 @@
+C:\Users\Draenaii\source\repos\Bestelbus2\bin\Debug\net6.0\Bestelbus2.exe
+C:\Users\Draenaii\source\repos\Bestelbus2\bin\Debug\net6.0\Bestelbus2.deps.json
+C:\Users\Draenaii\source\repos\Bestelbus2\bin\Debug\net6.0\Bestelbus2.runtimeconfig.json
+C:\Users\Draenaii\source\repos\Bestelbus2\bin\Debug\net6.0\Bestelbus2.dll
+C:\Users\Draenaii\source\repos\Bestelbus2\bin\Debug\net6.0\ref\Bestelbus2.dll
+C:\Users\Draenaii\source\repos\Bestelbus2\bin\Debug\net6.0\Bestelbus2.pdb
+C:\Users\Draenaii\source\repos\Bestelbus2\obj\Debug\net6.0\Bestelbus2.csproj.AssemblyReference.cache
+C:\Users\Draenaii\source\repos\Bestelbus2\obj\Debug\net6.0\Bestelbus2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Draenaii\source\repos\Bestelbus2\obj\Debug\net6.0\Bestelbus2.AssemblyInfoInputs.cache
+C:\Users\Draenaii\source\repos\Bestelbus2\obj\Debug\net6.0\Bestelbus2.AssemblyInfo.cs
+C:\Users\Draenaii\source\repos\Bestelbus2\obj\Debug\net6.0\Bestelbus2.csproj.CoreCompileInputs.cache
+C:\Users\Draenaii\source\repos\Bestelbus2\obj\Debug\net6.0\Bestelbus2.dll
+C:\Users\Draenaii\source\repos\Bestelbus2\obj\Debug\net6.0\ref\Bestelbus2.dll
+C:\Users\Draenaii\source\repos\Bestelbus2\obj\Debug\net6.0\Bestelbus2.pdb
+C:\Users\Draenaii\source\repos\Bestelbus2\obj\Debug\net6.0\Bestelbus2.genruntimeconfig.cache

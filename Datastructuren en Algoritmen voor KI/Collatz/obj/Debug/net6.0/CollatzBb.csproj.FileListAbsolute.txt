@@ -1,0 +1,15 @@
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\bin\Debug\net6.0\CollatzBb.exe
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\bin\Debug\net6.0\CollatzBb.deps.json
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\bin\Debug\net6.0\CollatzBb.runtimeconfig.json
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\bin\Debug\net6.0\CollatzBb.dll
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\bin\Debug\net6.0\CollatzBb.pdb
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\obj\Debug\net6.0\CollatzBb.csproj.AssemblyReference.cache
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\obj\Debug\net6.0\CollatzBb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\obj\Debug\net6.0\CollatzBb.AssemblyInfoInputs.cache
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\obj\Debug\net6.0\CollatzBb.AssemblyInfo.cs
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\obj\Debug\net6.0\CollatzBb.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\obj\Debug\net6.0\CollatzBb.dll
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\obj\Debug\net6.0\refint\CollatzBb.dll
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\obj\Debug\net6.0\CollatzBb.pdb
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\obj\Debug\net6.0\CollatzBb.genruntimeconfig.cache
+C:\Users\Thijmen.Van.Der.Meij\source\repos\CollatzBb\CollatzBb\obj\Debug\net6.0\ref\CollatzBb.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Bestelbus2/1.0.0": {
+        "runtime": {
+          "Bestelbus2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bestelbus2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
