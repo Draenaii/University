@@ -11,4 +11,6 @@ Introduction to Machine Learning: Python
 
 Datastructuren en Algoritmes voor KI (Datastructures and Algorithms for AI): C#
 
+Computationele Intelligentie (Computational Intelligence): C#
+
 Intelligente Systemen (Intelligent Systems): C# & ProLog
