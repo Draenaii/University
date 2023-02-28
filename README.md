@@ -10,3 +10,5 @@ Computationele Linguistiek (Computational Linguistics): Python
 Introduction to Machine Learning: Python
 
 Datastructuren en Algoritmes voor KI (Datastructures and Algorithms for AI): C#
+
+Intelligente Systemen (Intelligent Systems): C# & ProLog
