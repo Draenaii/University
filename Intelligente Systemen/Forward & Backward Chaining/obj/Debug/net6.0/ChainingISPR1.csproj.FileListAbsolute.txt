@@ -1,0 +1,15 @@
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\bin\Debug\net6.0\ChainingISPR1.exe
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\bin\Debug\net6.0\ChainingISPR1.deps.json
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\bin\Debug\net6.0\ChainingISPR1.runtimeconfig.json
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\bin\Debug\net6.0\ChainingISPR1.dll
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\bin\Debug\net6.0\ChainingISPR1.pdb
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\obj\Debug\net6.0\ChainingISPR1.csproj.AssemblyReference.cache
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\obj\Debug\net6.0\ChainingISPR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\obj\Debug\net6.0\ChainingISPR1.AssemblyInfoInputs.cache
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\obj\Debug\net6.0\ChainingISPR1.AssemblyInfo.cs
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\obj\Debug\net6.0\ChainingISPR1.csproj.CoreCompileInputs.cache
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\obj\Debug\net6.0\ChainingISPR1.dll
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\obj\Debug\net6.0\refint\ChainingISPR1.dll
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\obj\Debug\net6.0\ChainingISPR1.pdb
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\obj\Debug\net6.0\ChainingISPR1.genruntimeconfig.cache
+C:\Users\Thijmen.Van.Der.Meij\source\repos\ChainingISPR1\obj\Debug\net6.0\ref\ChainingISPR1.dll
