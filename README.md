@@ -13,4 +13,4 @@ Datastructuren en Algoritmes voor KI (Datastructures and Algorithms for AI): C#
 
 Computationele Intelligentie (Computational Intelligence): C#
 
-Intelligente Systemen (Intelligent Systems): C# & ProLog
+Intelligente Systemen (Intelligent Systems): ProLog (& some C#)
