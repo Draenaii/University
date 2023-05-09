@@ -14,3 +14,5 @@ Datastructuren en Algoritmes voor KI (Datastructures and Algorithms for AI): C#
 Computationele Intelligentie (Computational Intelligence): C#
 
 Intelligente Systemen (Intelligent Systems): ProLog (& some C#)
+
+Models for Language Processing: Python
